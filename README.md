@@ -28,20 +28,7 @@ for the development of this project the following technologies where used:
 - CSS3;
 - JavaScript;
 - React.js
----
-## Getting Starter
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
 ## 
 for the development of this project the following technologies where used:
 - Visual Studio Code;
